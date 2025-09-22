@@ -1,0 +1,12 @@
+{
+    "network_file": "./inputs/networks/tiny_good.csv",
+    "PV_file": "./inputs/pv_profiles.csv",
+    "demand_folder": "./inputs/Test1/",
+    "n_users": 3,
+    "n_periods": 24,
+    "n_days": 1,
+    "first_day": 0,
+    "solo": false,
+    "PF": false,
+    "bilevel": false
+}
